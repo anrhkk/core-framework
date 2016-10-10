@@ -1,0 +1,26 @@
+{
+  "name": "anrhkk-blog",
+  "description": "The Anrhkk Blog.",
+  "keywords": ["Framework", "Blog"],
+  "license": "MIT",
+  "homepage": "http://blog.yaoyanwei.com",
+  "support": {
+    "issues": "https://github.com/anrhkk/blog/issues",
+    "source": "https://github.com/anrhkk/blog"
+  },
+  "authors": [
+    {
+      "name": "anrhkk",
+      "email": "anrhkk@sina.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "anrhkk/core-framework": "*"
+  },
+  "require-dev": {
+    "mockery/mockery": "~0.9.4",
+    "phpunit/phpunit": "~5.4.8"
+  },
+  "minimum-stability": "stable"
+}
